@@ -27,7 +27,7 @@
     FROM
     	sales
     GROUP BY 
-    	customer_id;
+    	customer_id; 
 
 | customer_id | days_visited |
 | ----------- | ------------ |
